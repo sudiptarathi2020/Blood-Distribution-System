@@ -1,1 +1,1 @@
-# ju-food-ordering-system
+Details that appear on front page of our system
